@@ -5,6 +5,6 @@ class CreateShows
         shows.string :network
         shows.string :day
         shows.integer :rating
+    end
   end
-end
 end
