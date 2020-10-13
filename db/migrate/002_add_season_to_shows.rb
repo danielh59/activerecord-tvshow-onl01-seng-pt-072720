@@ -1,5 +1,5 @@
 class Addseasontoshows
-  def  
-    end 
-  end  
+  def
+    end
+  end
 end 
