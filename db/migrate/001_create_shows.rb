@@ -1,5 +1,5 @@
 class CreateShows
   def change
-      create_table 
+      create_table
   end
-end 
+end
