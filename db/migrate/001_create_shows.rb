@@ -7,3 +7,4 @@ class CreateShows
         shows.integer :rating
   end
 end
+end
